@@ -15,10 +15,10 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-**App Layout 
+## App Layout 
 
 ![Main Page](https://github.com/RaghavSaxena96/Flutter-App-1/blob/master/Main%20Page.png)
 
-**Navigation to Detials Page
+## Navigation to Detials Page
 
 ![Location Details](https://github.com/RaghavSaxena96/Flutter-App-1/blob/master/Location%20Details.png)
